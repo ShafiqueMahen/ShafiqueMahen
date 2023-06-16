@@ -15,7 +15,8 @@
          alt="azzar" height="30"/></a>
 </details>
   
- ## 🚀 My Latest Projects
+ ## 🚀 My Latest Projects 
+  - [3-Tier Architecture on AWS using Terraform & GitHub Actions](https://github.com/ShafiqueMahen/3-tier-architecture-terraform)
   - [Terraform AWS Static Website Hosting with Jenkins Pipeline](https://github.com/ShafiqueMahen/static-website-advanced)
   - [Static Website Deployment to S3 Bucket using Jenkins Pipeline](https://github.com/ShafiqueMahen/static-website)
  ## 🎓 University Projects
