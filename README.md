@@ -16,6 +16,7 @@
 </details>
   
  ## 🚀 My Latest Projects 
+  - [Cloud Native Flask App using Docker, ECR, EKS, Boto3 and K8s API](https://github.com/ShafiqueMahen/cloud-native-flask-app)
   - [3-Tier Architecture on AWS using Terraform & GitHub Actions](https://github.com/ShafiqueMahen/3-tier-architecture-terraform)
   - [Terraform AWS Static Website Hosting with Jenkins Pipeline](https://github.com/ShafiqueMahen/static-website-advanced)
   - [Static Website Deployment to S3 Bucket using Jenkins Pipeline](https://github.com/ShafiqueMahen/static-website)
