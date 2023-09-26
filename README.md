@@ -16,6 +16,7 @@
 </details>
   
  ## 🚀 My Latest Projects 
+  - [Terraform Web App on AWS using Best Practices (Terratest, Module & GitHub Actions CI/CD Pipeline)](https://github.com/ShafiqueMahen/Full-DevOps-Project)
   - [Cloud Native Flask App using Docker, ECR, EKS, Boto3 and K8s API](https://github.com/ShafiqueMahen/cloud-native-flask-app)
   - [3-Tier Architecture on AWS using Terraform & GitHub Actions](https://github.com/ShafiqueMahen/3-tier-architecture-terraform)
   - [Terraform AWS Static Website Hosting with Jenkins Pipeline](https://github.com/ShafiqueMahen/static-website-advanced)
