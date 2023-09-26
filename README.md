@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=ShafiqueMahen&color=blueviolet&style=plastic" 
   width="120" height="24"/>
 </p>
-<h4 align="center"> I am a aspiring DevOps Engineer who's enthusiastic about the cloud! My goal is to refine my existing skillset and to develop proficiencies in cloud-native technologies.  </h4>
+<h4 align="center"> I am a Junior DevOps Engineer who's enthusiastic about the cloud! My goal is to refine my existing skillset and to develop proficiencies in cloud-native technologies.  </h4>
 </div>
 <div>
   <samp>
